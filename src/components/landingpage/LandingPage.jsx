@@ -45,7 +45,7 @@ function LandingPage() {
               return (
                 <div className="featured-card">
                   <div className="featured-card-image">
-                    <img src={url} alt="featured-card-image" />
+                    <img src={url} alt={title} />
                   </div>
                   <div className="featured-card-details">
                     <p className="featured-card-title">{title}</p>
@@ -65,7 +65,7 @@ function LandingPage() {
               return (
                 <div className="featured-card">
                   <div className="featured-card-image">
-                    <img src={url} alt="featured-card-image" />
+                    <img src={url} alt={title} />
                   </div>
                   <div className="featured-card-details">
                     <p className="featured-card-title">{title}</p>

@@ -28,10 +28,11 @@
   border-radius: 10px;
   cursor: pointer;
   transition: transform 0.4s ease;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 .featured-card:hover {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-  transform: scale(1.09);
+  transform: scale(1.04);
 }
 .featured-card-image {
   box-sizing: border-box;
