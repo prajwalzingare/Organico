@@ -10,7 +10,7 @@ footer {
 }
 
 .footer-header {
-  font-size: 2rem;
+  font-size: 1.9rem;
   margin-top: 1rem;
 }
 
@@ -20,7 +20,7 @@ footer {
   gap: 20px;
 }
 .social-icons .social-icon {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   color: white;
 }
 .social-icons .social-icon:hover {
@@ -31,4 +31,16 @@ footer {
 }
 .footer-logo {
   font-weight: 900;
+}
+
+@media screen and (max-width: 768px) {
+  .footer-header {
+    font-size: 1.4rem;
+  }
+  .social-icons .social-icon {
+    font-size: 1.8rem;
+  }
+  .footer-bottom {
+    font-size: 0.9rem;
+  }
 }

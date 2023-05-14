@@ -12,6 +12,7 @@ function Footer() {
         <div className="social-icons-container">
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://github.com/prajwalzingare"
             className="social-icons"
           >
@@ -19,6 +20,7 @@ function Footer() {
           </a>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://twitter.com/zingareprajwal"
             className="social-icons"
           >
@@ -26,6 +28,7 @@ function Footer() {
           </a>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://www.instagram.com/prajwalzingare/"
             className="social-icons"
           >
@@ -33,6 +36,7 @@ function Footer() {
           </a>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://www.linkedin.com/in/prajwal-zingare-a022a8169/"
             className="social-icons"
           >
