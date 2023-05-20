@@ -7,7 +7,7 @@ function Carousal() {
       <section className="carousel">
         <div className="banner">
           <div className="banner-text">
-            <h2>Get 20% off on your first order!</h2>
+            <h2>Want to Improve Health</h2>
             <p>Use code FIRST20 at checkout</p>
             <Link to="/products" className="btn">
               Shop Now
